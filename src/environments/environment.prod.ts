@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  urlEndPoint: 'http://www.laravelcurso.com.devel/'
 };
